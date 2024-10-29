@@ -1,1 +1,12 @@
 /* место для вашего кода */
+.header {
+    height: 105px;
+    margin-top: 92px;
+    background: yellow;
+    display: flex;
+}
+.header_menu {
+    background: green;
+    width: 200px;
+    height: 100px;
+}
