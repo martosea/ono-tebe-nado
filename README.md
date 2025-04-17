@@ -1,1 +1,1 @@
-git@github.com:martosea/ono-tebe-nado.git
+https://github.com/martosea/ono-tebe-nado.git
